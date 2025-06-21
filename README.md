@@ -6,6 +6,7 @@
     - Ruby
     - HTML
     - CSS
+    - Javascript
     - Python
     - Haskell
   
