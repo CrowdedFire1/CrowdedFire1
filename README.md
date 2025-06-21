@@ -16,6 +16,7 @@
 - Frameworks(FW) I've worked with:
   - Sinatra : A Ruby web FW
   - Nanoc : Another Ruby web FW
+  - Ruby on Rails : Popular Ruby FW
   - Spring Boot, using RESTful architecture : A Java web FW
   - Selenium : A Java(in the capacity I  have used it in) Automated Test Framework
   - ROS2 : A robotics control system
